@@ -1,0 +1,41 @@
+id;pikk_mudel;mudeli_tyyp;alates;kuni;id_2;mudel;id_3
+2511;323;"3-deurs hatchback";1979;1980;387;323;0
+2512;323;"5-deurs hatchback";1979;1980;387;323;0
+2514;323;"3-deurs hatchback";1980;1982;387;323;0
+2515;323;"5-deurs hatchback";1980;1982;387;323;0
+2516;323;"4-deurs sedan";1981;1982;387;323;0
+2520;323;"5-deurs hatchback";1982;1985;387;323;0
+2519;323;"4-deurs sedan";1982;1985;387;323;0
+2518;323;"4-deurs hatchback";1982;1985;387;323;0
+2517;323;"3-deurs hatchback";1982;1985;387;323;0
+2525;323;"5-deurs hatchback";1985;1987;387;323;0
+2524;323;"4-deurs sedan";1985;1987;387;323;0
+2523;323;"3-deurs sedan";1985;1987;387;323;0
+2522;323;"3-deurs hatchback";1985;1987;387;323;0
+2530;323;"5-deurs hatchback";1987;1989;387;323;0
+2529;323;"4-deurs sedan";1987;1989;387;323;0
+2528;323;"3-deurs hatchback";1987;1989;387;323;0
+2532;323;"3-deurs hatchback";1989;1991;387;323;0
+2533;323;"4-deurs sedan";1989;1991;387;323;0
+2536;323;"3-deurs hatchback";1991;1995;387;323;19881
+2537;323;"4-deurs sedan";1991;1995;387;323;19884
+2540;323;"4-deurs sedan";1994;1997;387;323;20778
+2539;323;"3-deurs hatchback";1994;1997;387;323;20772
+2543;"323 Coupe";"3-deurs coupe";1997;1998;387;323;20772
+2513;"323 Estate";"5-deurs stationwagon";1979;1981;387;323;0
+2521;"323 Estate";"5-deurs stationwagon";1982;1985;387;323;0
+2526;"323 Estate";"5-deurs hatchback";1986;1987;387;323;0
+2527;"323 Estate";"5-deurs stationwagon";1986;1987;387;323;0
+2531;"323 Estate";"5-deurs stationwagon";1987;1990;387;323;0
+2535;"323 Estate";"5-deurs stationwagon";1990;1994;387;323;19653
+2534;"323 F";"5-deurs hatchback";1989;1991;387;323;0
+2538;"323 F";"5-deurs hatchback";1991;1995;387;323;0
+2541;"323 F";"5-deurs hatchback";1994;1997;387;323;20775
+2545;"323 F";"5-deurs hatchback";1997;1998;387;323;20775
+2548;"323 FastBreak";"5-deurs hatchback";1998;2001;387;323;22333
+2550;"323 FastBreak";"5-deurs hatchback";2001;2003;387;323;24436
+2542;"323 P";"3-deurs hatchback";1997;1998;387;323;21807
+2546;"323 P";"3-deurs hatchback";1998;2001;387;323;21807
+2544;"323 Sedan";"4-deurs sedan";1997;1998;387;323;20778
+2547;"323 Sedan";"4-deurs sedan";1998;2001;387;323;22337
+2549;"323 Sedan";"4-deurs sedan";2001;2003;387;323;24442

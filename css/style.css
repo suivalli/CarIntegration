@@ -1,0 +1,162 @@
+/* 
+    Created on : Dec 16, 2013, 10:40:49 AM
+    Author     : Suido Valli
+*/
+
+h2 {
+    color: #00ccff;
+}
+
+body {
+    font-family: Gill, Helvetica;
+}
+
+#submitcontent {    
+    width: 800px;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+
+#manualsubmit {
+    float: left;
+    width: 400px;
+    margin-right: 10px;
+    border: 1px solid black;
+}
+
+#autosubmit {
+    margin-left: 410px;
+    padding-bottom: 5px;
+    border: 1px solid black;
+}
+
+.centered { 
+    text-align: center;
+}
+
+body {
+    background-color: #f4f4f4;
+}
+
+.linksubmission {
+    width: 350px;
+    height: 25px;
+    border-radius: 5px;
+    font-family: sans-serif;
+    font-size: 1.2em;
+}
+
+.manual {
+    width: 200px;
+    height: 15px;
+    border-radius: 3px;
+    font-family: sans-serif;
+    font-size: 1em;
+}
+
+
+.content {
+    margin: 0 auto;
+    margin-top: 15px;
+    width: 1000px;
+    font-size: 0.8em;
+}
+
+#bg_body img {
+min-height: 100%;
+min-width: 1024px;
+width: 100%;
+height: auto;
+position: fixed;
+top: 0;
+left: 0;
+z-index: -1;
+}
+
+#slider {
+    width: auto;
+    margin: 0 auto;
+}
+
+#slider li {
+    text-align: center;
+}
+
+#slider li img {
+    min-height: 0px;
+    max-height: 516px;
+    min-width: 0px;
+    position: relative;
+    display: inline;
+    width: auto;    
+}
+
+.main_info {
+    width: 1000px;
+}
+
+.spritdata table {
+    width: 100%;
+    text-align: center;
+}
+.spritdata th {
+    background-color: #00ccff;
+}
+
+.printButton {
+    background: url(../img/print.png);
+    border: none;
+    width: 32px;
+    height: 32px;
+}
+
+#print {
+    position: fixed;
+    right: 10px;
+    top: 10px;
+}
+
+.mainTabs .ui-tabs-nav li .icon {
+    color: #555;
+    background-position: center 3px;
+    padding-top: 25px;
+    font-size: 12px;
+    text-align: center;
+    width: auto; 
+}
+
+.icon {
+    background: url(../img/question.png) no-repeat; height: 20px; width: 20px;
+}
+
+#compare {
+    position: fixed;
+    left: 10px;
+    top: 10px;
+    font-size: 1.5em;
+    text-decoration: none;
+}
+
+#compare a {
+    color: #fff;
+}
+
+#compare a:visited {
+    color: #fff;
+}
+
+#footer {
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;    
+    bottom: 15px;
+    background-color: rgba(255,255,255,0.5);
+}
+
+#footer a {
+    color: #000;
+}
+
+#footer a:visited {
+    color: #000;
+}

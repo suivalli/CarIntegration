@@ -1,0 +1,49 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Apr 15, 2014, 3:09:59 PM
+    Author     : suido
+*/
+
+h2{
+    color: #000;
+}
+
+body{
+    font-family: "Times New Roman", "Book Antiqua", serif;
+    background-color: #fff;    
+}
+
+.centered{
+    text-align: center;
+}
+
+.content{
+    margin: 0 auto;
+    margin-top: 15px;
+    width: 1000px;
+    font-size: 0.8em;
+}
+
+a {
+    color: #000;
+}
+
+a:visited {
+    color: #000;
+}
+
+
+
+#footer a {
+    color: #000;
+}
+
+#footer a:visited {
+    color: #000;
+}
+
+
